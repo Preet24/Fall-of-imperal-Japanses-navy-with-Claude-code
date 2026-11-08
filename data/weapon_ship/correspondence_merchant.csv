@@ -1,0 +1,11 @@
+kind,name,dim1,dim2,mass,dim_share_1,dim_share_2
+ship type,cargo,-0.1222,-0.03142,0.6188,0.7593,0.1964
+ship type,passenger_cargo,0.2519,-0.04888,0.1699,0.7593,0.1964
+ship type,tanker,0.01021,0.2566,0.1133,0.7593,0.1964
+ship type,transport,0.2455,-0.006373,0.03453,0.7593,0.1964
+ship type,converted_auxiliary,0.418,-0.02021,0.05893,0.7593,0.1964
+ship type,other_merchant,-0.3141,0.02015,0.004604,0.7593,0.1964
+weapon,submarine,0.1288,-0.03729,0.5308,0.7593,0.1964
+weapon,aircraft,-0.07174,0.1142,0.3435,0.7593,0.1964
+weapon,surface,0.7587,-0.3735,0.005525,0.7593,0.1964
+weapon,mine,-0.3988,-0.1446,0.1202,0.7593,0.1964

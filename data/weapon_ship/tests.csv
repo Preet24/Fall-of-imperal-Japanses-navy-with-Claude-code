@@ -1,0 +1,7 @@
+analysis,fleet,test,statistic,df,p_value,p_asymptotic,effect_size,effect_size_name,n,note
+B1,naval,Chi-square test of independence (ship type x weapon),218.7,24,0.0001,2.375e-33,0.3207,Cramer's V (bias-corrected),634,"plain V = 0.339; 11 of 36 cells have expected count < 5; CA dimension 1 = 85.3%, dimension 2 = 13.1% of inertia; Bonferroni residual threshold = 3.20"
+B1,naval,Log-linear test of type x weapon given year (conditional independence),194.3,24,1.31e-28,1.31e-28,,,634,residual deviance H0 = 293.8 on 120 df; H1 = 99.5 on 96 df
+B2,naval,"Kruskal-Wallis, tonnage across weapons",21.96,3,6.652e-05,6.652e-05,0.03469,epsilon-squared,634,"submarine: n=217, median=900; aircraft: n=267, median=1,000; surface: n=123, median=1,785; mine: n=27, median=988"
+B1,merchant,Chi-square test of independence (ship type x weapon),94.03,15,0.0002,1.747e-13,0.1102,Cramer's V (bias-corrected),2172,"plain V = 0.120; 7 of 24 cells have expected count < 5; CA dimension 1 = 75.9%, dimension 2 = 19.6% of inertia; Bonferroni residual threshold = 3.08"
+B1,merchant,Log-linear test of type x weapon given year (conditional independence),60.99,15,1.7e-07,1.7e-07,,,2172,residual deviance H0 = 127.2 on 75 df; H1 = 66.2 on 60 df
+B2,merchant,"Kruskal-Wallis, tonnage across weapons",171.2,3,7.028e-37,7.028e-37,0.07885,epsilon-squared,2172,"submarine: n=1153, median=3,967; aircraft: n=746, median=2,722; surface: n=12, median=3,527; mine: n=261, median=1,500"

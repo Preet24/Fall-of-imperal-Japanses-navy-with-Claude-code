@@ -1,0 +1,18 @@
+level,sinking_agent,naval_no,naval_tonnage,merchant_no,merchant_tonnage,total_no,total_tonnage
+0,United States and Allied Forces,10,14864,12,57923,22,72787
+1,United States Army Aircraft and Australian Aircraft,4,7550,6,30579,10,38129
+1,United States Navy-Marine Land-Based Aircraft and New Zealand Surface Craft,1,2212,0,0,1,2212
+1,United States Navy Carrier-Based Aircraft and British Aircraft,2,1760,2,3500,4,5260
+1,United States Army Aircraft and British Aircraft,1,1500,0,0,1,1500
+1,United States and British Surface Craft,1,1142,0,0,1,1142
+1,United States Surface Craft and British Aircraft,1,700,0,0,1,700
+1,United States Army Aircraft and Surface Craft and Australian and Netherlands Aircraft,0,0,2,16362,2,16362
+1,United States Army Aircraft and Surface Craft and British Aircraft,0,0,1,6493,1,6493
+1,United States Army Aircraft and British and Netherlands Aircraft,0,0,1,989,1,989
+0,Marine Casualties,13,50338,97,268948,110,319286
+0,Japanese Mines,0,0,21,67197,21,67197
+0,Unidentified Forces,7,8598,26,98519,33,107117
+1,Aircraft,1,613,1,1398,2,2011
+1,Submarines,0,0,1,940,1,940
+1,Unknown,6,7985,24,96181,30,104166
+0,TOTAL,30,73800,156,492589,186,566387

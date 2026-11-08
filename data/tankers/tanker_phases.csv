@@ -1,0 +1,6 @@
+measure,phase,start,end,months,tanker_ships,tanker_grt,mean_grt_per_month,merchant_ships,share_fitted,share_ci_low,share_ci_high
+tanker GRT per month,1,1941-12,1942-12,13,3,1.604e+04,1234,,,,
+tanker GRT per month,2,1943-01,1943-08,8,9,6.753e+04,8442,,,,
+tanker GRT per month,3,1943-09,1945-08,24,250,1.227e+06,5.112e+04,,,,
+tanker share of merchant ships sunk,1,1941-12,1943-08,21,12,,,468,0.02491,0.008887,0.04267
+tanker share of merchant ships sunk,2,1943-09,1945-08,24,250,,,1878,0.1295,0.1057,0.1671

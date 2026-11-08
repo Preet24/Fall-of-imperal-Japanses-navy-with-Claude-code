@@ -1,0 +1,29 @@
+level,sinking_agent,naval_no,naval_tonnage,merchant_no,merchant_tonnage,total_no,total_tonnage
+0,British Forces,28,50365,42,87981,70,138346
+1,Submarines,14,26396,29,65040,43,91436
+1,Navy Carrier-Based Aircraft,0,0,2,1817,2,1817
+1,Navy Land-Based Aircraft,2,1600,1,1350,3,2950
+1,Surface Craft,8,19287,0,0,8,19287
+1,Army Aircraft,1,270,0,0,1,270
+1,Army Aircraft and Surface Craft,0,0,1,1500,1,1500
+1,Mines,3,2812,7,11000,10,13812
+1,Sabotage,0,0,2,7274,2,7274
+0,Netherlands Forces,7,8099,15,57471,22,65570
+1,Submarines,2,3920,10,42049,12,45969
+1,Aircraft,1,615,5,15422,6,16037
+1,Mines,2,2580,0,0,2,2580
+1,Shore Batteries,2,984,0,0,2,984
+0,Australian Forces,5,6892,8,24910,13,31802
+1,Aircraft,2,400,2,10369,4,10769
+1,Mines,3,6492,6,14541,9,21033
+0,New Zealand Forces,2,2095,0,0,2,2095
+1,Surface Craft,1,1995,0,0,1,1995
+1,Aircraft,1,100,0,0,1,100
+0,Chinese Aircraft,0,0,3,14327,3,14327
+0,Russian Forces,2,1660,2,8233,4,9893
+1,Aircraft,2,1660,1,6003,3,7663
+1,Unknown,0,0,1,2230,1,2230
+0,Netherlands and Australian Aircraft,0,0,2,8303,2,8303
+0,Netherlands and Indian Surface Craft,0,0,1,10439,1,10439
+0,Australian and Indian Surface Craft,1,525,0,0,1,525
+0,TOTAL,45,69636,73,211664,118,281300

@@ -1,0 +1,6 @@
+day_gap,km_gap,events,multi_ship_events,share_of_ships_in_multi_ship_events,largest_event_ships,largest_event_start,largest_event_place,median_top20_size
+0,50,2215,379,0.3945,33,1944-02-17,Truk,9
+1,50,2103,392,0.4357,33,1944-02-17,Truk,12
+1,100,1954,407,0.4898,36,1944-02-17,Truk,16.5
+2,200,1707,438,0.5815,102,1945-05-23,Shimonoseki Strait,17.5
+3,300,1442,413,0.6606,289,1945-04-30,Shimonoseki Strait,19.5

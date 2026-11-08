@@ -1,0 +1,24 @@
+subset,area,area_label,group,ships,grt,p10,p25,p50,p75,p90,median_ci_low,median_ci_high
+all causes,nei_malaya,NEI & Malacca Strait,southern,177,586270,1942-06-29,1943-09-28,1944-05-17,1944-09-28,1945-03-05,1943-12-24,1944-08-09
+all causes,south_china_sea,South China Sea,southern,272,1182949,1943-06-02,1944-02-05,1944-10-30,1945-01-16,1945-03-21,1944-03-07,1945-01-12
+all causes,philippines,Philippines,southern,243,1037769,1943-06-18,1944-07-17,1944-09-21,1944-11-05,1944-11-25,1944-06-22,1944-11-11
+all causes,luzon_strait,Luzon Strait,southern,65,371746,1944-04-29,1944-07-17,1944-09-08,1944-10-24,1944-11-25,1944-06-23,1944-10-24
+all causes,formosa_ryukyu,Formosa & Ryukyus,southern,164,608631,1943-06-02,1944-02-17,1944-10-11,1945-01-21,1945-03-01,1944-02-12,1945-01-15
+all causes,yellow_ecs,East China & Yellow Sea,inner,252,911328,1942-10-22,1943-10-20,1944-09-10,1945-03-24,1945-06-10,1944-01-23,1945-03-10
+all causes,sea_of_japan,Sea of Japan & Korea Strait,inner,192,442065,1943-11-26,1945-05-05,1945-06-12,1945-07-23,1945-08-07,1944-09-17,1945-07-28
+all causes,japan_coast,Japan: Pacific coast & Inland Sea,home,384,1047495,1942-10-23,1943-12-23,1945-05-09,1945-06-29,1945-07-17,1943-10-18,1945-07-07
+all causes,new_guinea_solomons,New Guinea & Solomons,outer,174,683284,1942-10-16,1943-01-07,1943-06-09,1944-01-17,1944-02-21,1943-01-20,1944-01-13
+all causes,central_pacific,Central Pacific islands,outer,331,1438849,1943-01-26,1943-10-01,1944-02-01,1944-04-28,1944-06-30,1943-11-09,1944-04-01
+all causes,north,"North: Hokkaido, Kuriles, Aleutians",outer,58,196071,1942-10-05,1943-06-14,1944-05-31,1944-09-17,1945-06-18,1943-06-30,1944-09-01
+all causes,indian_ocean,Indian Ocean & Burma,outer,29,101310,1942-10-30,1943-07-28,1944-01-15,1944-07-23,1944-12-31,1943-08-22,1944-06-12
+submarine,nei_malaya,NEI & Malacca Strait,southern,111,402967,1942-10-31,1943-09-08,1944-03-27,1944-07-16,1945-03-03,1943-11-29,1944-06-15
+submarine,south_china_sea,South China Sea,southern,144,736665,1942-07-22,1943-12-25,1944-09-12,1944-12-04,1945-03-19,1944-01-23,1944-11-14
+submarine,philippines,Philippines,southern,106,505955,1942-11-12,1944-01-14,1944-07-16,1944-09-15,1944-10-18,1944-01-07,1944-10-01
+submarine,luzon_strait,Luzon Strait,southern,58,337534,1944-04-08,1944-07-03,1944-08-30,1944-10-24,1944-11-08,1944-05-04,1944-10-24
+submarine,formosa_ryukyu,Formosa & Ryukyus,southern,71,292918,1942-10-14,1943-09-24,1944-04-12,1944-10-16,1945-01-08,1943-12-16,1944-09-24
+submarine,yellow_ecs,East China & Yellow Sea,inner,145,623172,1942-09-25,1943-05-30,1944-07-01,1944-11-30,1945-04-09,1943-08-31,1944-11-12
+submarine,sea_of_japan,Sea of Japan & Korea Strait,inner,66,195851,1943-09-08,1944-02-28,1945-06-09,1945-06-13,1945-07-28,1943-11-22,1945-06-12
+submarine,japan_coast,Japan: Pacific coast & Inland Sea,home,145,501273,1942-08-03,1942-12-12,1943-09-09,1944-06-24,1945-04-17,1943-02-15,1944-03-16
+submarine,new_guinea_solomons,New Guinea & Solomons,outer,42,181796,1942-09-20,1942-12-20,1943-02-24,1943-09-15,1944-02-25,1942-12-30,1943-09-18
+submarine,central_pacific,Central Pacific islands,outer,218,967842,1943-01-16,1943-06-11,1943-12-03,1944-04-02,1944-06-04,1943-07-24,1944-03-28
+submarine,north,"North: Hokkaido, Kuriles, Aleutians",outer,38,118563,1943-06-21,1944-03-05,1944-06-06,1944-09-17,1945-06-01,1944-03-07,1944-09-14

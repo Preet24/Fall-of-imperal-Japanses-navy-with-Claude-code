@@ -1,0 +1,18 @@
+﻿table,page,row,level,group,sinking_agent,naval_no,naval_tonnage,merchant_no,merchant_tonnage,total_no,total_tonnage,ocr_label,ocr_matched,corrected_cells,ocr_issues,note
+IV,11,1,0,,United States and Allied Forces,10,14864,12,57923,22,72787,United States and Allied Forces,False,merchant_no:106->12; total_no:2->22,merchant_no_unreadable;merchant_no_inferred,
+IV,11,2,1,United States and Allied Forces,United States Army Aircraft and Australian Aircraft,4,7550,6,30579,10,38129,United States Army Aircraft and Australian Aircraft,False,merchant_no:100->6; total_no:104->10,naval_no_inferred;merchant_no_inferred;total_no_inferred,
+IV,11,3,1,United States and Allied Forces,United States Navy-Marine Land-Based Aircraft and New Zealand Surface Craft,1,2212,0,0,1,2212,United States Navy-Marine Land-Based Aircraft and New Zealand Surface Craft',True,,merchant_no_inferred;merchant_tonnage_inferred,
+IV,11,4,1,United States and Allied Forces,United States Navy Carrier-Based Aircraft and British Aircraft,2,1760,2,3500,4,5260,United States Navy Carrier-Based Aircraft and British Aircraft,True,,,
+IV,11,5,1,United States and Allied Forces,United States Army Aircraft and British Aircraft,1,1500,0,0,1,1500,United States Army Aircraft and British Aircraft,True,,merchant_no_inferred;merchant_tonnage_inferred,
+IV,11,6,1,United States and Allied Forces,United States and British Surface Craft,1,1142,0,0,1,1142,United States and British Surface Craft,True,,merchant_no_inferred;merchant_tonnage_inferred,
+IV,11,7,1,United States and Allied Forces,United States Surface Craft and British Aircraft,1,700,0,0,1,700,United States Surface Craft and British Aircraft,True,,merchant_no_inferred;merchant_tonnage_inferred,
+IV,11,8,1,United States and Allied Forces,United States Army Aircraft and Surface Craft and Australian and Netherlands Aircraft,0,0,2,16362,2,16362,United States Army Aircraft and Surface Craft and Australian and Netherlands Aircraft,True,,naval_no_inferred;naval_tonnage_inferred,
+IV,11,9,1,United States and Allied Forces,United States Army Aircraft and Surface Craft and British Aircraft,0,0,1,6493,1,6493,United States Army Aircraft and Surface Craft and British Aircraft,True,,naval_no_inferred;naval_tonnage_inferred,
+IV,11,10,1,United States and Allied Forces,United States Army Aircraft and British and Netherlands Aircraft,0,0,1,989,1,989,United States Army Aircraft and British and Netherlands Aircraft,True,,naval_tonnage_inferred,
+IV,11,11,0,,Marine Casualties,13,50338,97,268948,110,319286,Marine Casualties,False,merchant_no:27->97,,
+IV,11,12,0,,Japanese Mines,0,0,21,67197,21,67197,Japanese Mines,True,,naval_no_unreadable;naval_no_inferred;naval_tonnage_inferred,
+IV,11,13,0,,Unidentified Forces,7,8598,26,98519,33,107117,Unidentified Forces,False,naval_no:31->7; merchant_no:2->26,naval_no_inferred,
+IV,11,14,1,Unidentified Forces,Aircraft,1,613,1,1398,2,2011,Aircraft,False,naval_no:->1; merchant_no:->1,,
+IV,11,15,1,Unidentified Forces,Submarines,0,0,1,940,1,940,Submarines,True,,naval_tonnage_inferred;naval_no_inferred,
+IV,11,16,1,Unidentified Forces,Unknown,6,7985,24,96181,30,104166,Unknowm,False,naval_no:->6; merchant_no:->24; total_no:20->30,,
+IV,11,17,0,,TOTAL,30,73800,156,492589,186,566387,TOTAL,False,merchant_tonnage:492587->492589,merchant_tonnage_corrected,"printed TOTAL merchant tonnage 492,589 is 2 more than its rows (492,587); kept as printed"

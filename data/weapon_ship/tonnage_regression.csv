@@ -1,0 +1,13 @@
+fleet,model,weapon,vs,pct_difference,ci_low_pct,ci_high_pct,p_value,r_squared,n
+naval,raw,aircraft,submarine,-11.2,-29.1,11.22,0.301,0.01584,634
+naval,raw,surface,submarine,27.31,2.432,58.22,0.02951,0.01584,634
+naval,raw,mine,submarine,-32.02,-55.19,3.122,0.06947,0.01584,634
+naval,adjusted for ship type and year,aircraft,submarine,-15.69,-25.85,-4.14,0.009175,0.7106,634
+naval,adjusted for ship type and year,surface,submarine,-14.91,-25.58,-2.71,0.01818,0.7106,634
+naval,adjusted for ship type and year,mine,submarine,-18.62,-39.54,9.545,0.1743,0.7106,634
+merchant,raw,aircraft,submarine,-31.24,-36.32,-25.76,1.013e-21,0.086,2172
+merchant,raw,surface,submarine,0.1226,-42.01,72.85,0.9965,0.086,2172
+merchant,raw,mine,submarine,-49.2,-54.1,-43.78,3.606e-39,0.086,2172
+merchant,adjusted for ship type and year,aircraft,submarine,-20.29,-26.07,-14.06,3.42e-09,0.223,2172
+merchant,adjusted for ship type and year,surface,submarine,-7.092,-40.62,45.37,0.7474,0.223,2172
+merchant,adjusted for ship type and year,mine,submarine,-17.87,-27.14,-7.434,0.001259,0.223,2172

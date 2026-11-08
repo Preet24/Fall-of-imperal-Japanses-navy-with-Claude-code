@@ -1,0 +1,48 @@
+area,year,ships,grt,submarine_ships,submarine_grt,submarine_grt_share,group,area_label
+nei_malaya,1942,27,127092,15,5.77e+04,0.454,southern,NEI & Malacca Strait
+nei_malaya,1943,33,132179,26,1.093e+05,0.827,southern,NEI & Malacca Strait
+nei_malaya,1944,90,282805,54,2.118e+05,0.749,southern,NEI & Malacca Strait
+nei_malaya,1945,27,44194,16,2.413e+04,0.546,southern,NEI & Malacca Strait
+south_china_sea,1942,25,110053,19,9.054e+04,0.8227,southern,South China Sea
+south_china_sea,1943,32,130424,17,9.606e+04,0.7365,southern,South China Sea
+south_china_sea,1944,109,536777,79.5,4.361e+05,0.8124,southern,South China Sea
+south_china_sea,1945,106,405695,29.5,1.19e+05,0.2934,southern,South China Sea
+philippines,1942,16,70423,12,4.991e+04,0.7087,southern,Philippines
+philippines,1943,13,56437,13,5.644e+04,1,southern,Philippines
+philippines,1944,206,897632,82.5,4.047e+05,0.4508,southern,Philippines
+philippines,1945,8,13277,0,0,0,southern,Philippines
+luzon_strait,1942,1,7267,1,7267,1,southern,Luzon Strait
+luzon_strait,1943,1,10171,1,1.017e+04,1,southern,Luzon Strait
+luzon_strait,1944,62,346138,56.5,3.23e+05,0.9331,southern,Luzon Strait
+luzon_strait,1945,1,8170,0.5,4085,0.5,southern,Luzon Strait
+formosa_ryukyu,1942,13,58402,11,4.767e+04,0.8162,southern,Formosa & Ryukyus
+formosa_ryukyu,1943,17,82788,11,4.937e+04,0.5964,southern,Formosa & Ryukyus
+formosa_ryukyu,1944,80,267611,41,1.539e+05,0.5752,southern,Formosa & Ryukyus
+formosa_ryukyu,1945,54,199830,8,4.194e+04,0.2099,southern,Formosa & Ryukyus
+yellow_ecs,1942,30,137906,20,9.04e+04,0.6555,inner,East China & Yellow Sea
+yellow_ecs,1943,50,227435,40,1.845e+05,0.8113,inner,East China & Yellow Sea
+yellow_ecs,1944,78,303430,51,2.424e+05,0.7989,inner,East China & Yellow Sea
+yellow_ecs,1945,94,242557,34.5,1.074e+05,0.4428,inner,East China & Yellow Sea
+sea_of_japan,1942,2,5220,1,4000,0.7663,inner,Sea of Japan & Korea Strait
+sea_of_japan,1943,19,60915,14,5.098e+04,0.837,inner,Sea of Japan & Korea Strait
+sea_of_japan,1944,18,63334,10,4.88e+04,0.7705,inner,Sea of Japan & Korea Strait
+sea_of_japan,1945,153,312596,41,9.207e+04,0.2945,inner,Sea of Japan & Korea Strait
+japan_coast,1942,45,186574,40,1.603e+05,0.8592,home,Japan: Pacific coast & Inland Sea
+japan_coast,1943,53,202427,43,1.759e+05,0.8688,home,Japan: Pacific coast & Inland Sea
+japan_coast,1944,49,138970,36,1.147e+05,0.8254,home,Japan: Pacific coast & Inland Sea
+japan_coast,1945,237,519524,26,5.037e+04,0.09696,home,Japan: Pacific coast & Inland Sea
+new_guinea_solomons,1942,42,234910,13,6.049e+04,0.2575,outer,New Guinea & Solomons
+new_guinea_solomons,1943,82,306932,23.5,9.871e+04,0.3216,outer,New Guinea & Solomons
+new_guinea_solomons,1944,50,141442,6,2.588e+04,0.183,outer,New Guinea & Solomons
+central_pacific,1942,25,109466,20,8.302e+04,0.7584,outer,Central Pacific islands
+central_pacific,1943,111,522873,100,4.881e+05,0.9335,outer,Central Pacific islands
+central_pacific,1944,189,800544,98,3.967e+05,0.4955,outer,Central Pacific islands
+central_pacific,1945,6,5966,0,0,0,outer,Central Pacific islands
+north,1942,10,48178,2,4364,0.09058,outer,"North: Hokkaido, Kuriles, Aleutians"
+north,1943,11,40973,6,2.041e+04,0.4981,outer,"North: Hokkaido, Kuriles, Aleutians"
+north,1944,26,81605,24,8.018e+04,0.9825,outer,"North: Hokkaido, Kuriles, Aleutians"
+north,1945,11,25315,6,1.361e+04,0.5377,outer,"North: Hokkaido, Kuriles, Aleutians"
+indian_ocean,1942,4,24642,1,7031,0.2853,outer,Indian Ocean & Burma
+indian_ocean,1943,10,42898,1,3967,0.09248,outer,Indian Ocean & Burma
+indian_ocean,1944,12,30731,7,1.33e+04,0.4327,outer,Indian Ocean & Burma
+indian_ocean,1945,3,3039,0,0,0,outer,Indian Ocean & Burma

@@ -1,0 +1,19 @@
+level,sinking_agent,naval_no,naval_tonnage,merchant_no,merchant_tonnage,total_no,total_tonnage
+0,United States Forces,13,37434,65,273589,78,311023
+1,Submarines,4,5064,51,220808,55,225872
+1,Army Aircraft,0,0,2,1822,2,1822
+1,Navy Carrier-Based Aircraft,4,400,0,0,4,400
+1,Navy-Marine Land-Based Aircraft,1,170,3,8575,4,8745
+1,Surface Craft,4,31800,0,0,4,31800
+1,Army Mine,0,0,5,30222,5,30222
+1,Navy Mine,0,0,3,10947,3,10947
+1,Unknown Aircraft,0,0,1,1215,1,1215
+0,British Forces,0,0,3,5846,3,5846
+1,Submarines,0,0,2,2817,2,2817
+1,Mines,0,0,1,3029,1,3029
+0,Netherlands Aircraft,0,0,1,4109,1,4109
+0,Russian Aircraft,2,1660,1,6003,3,7663
+0,Unknown Aircraft,1,613,0,0,1,613
+0,Australian Mines,1,4000,0,0,1,4000
+0,Japanese Mines,0,0,8,31092,8,31092
+0,Marine Casualties,0,0,1,3209,1,3209

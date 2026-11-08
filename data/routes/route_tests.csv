@@ -1,0 +1,11 @@
+test,statistic,df,p_value,estimate,unit,n,detail,ci_low,ci_high
+"R2 Chi-square, area x year of submarine-only sinkings",423.7,33,0.0001,0.3365,bias-corrected Cramer's V (p: permutation),1153,asymptotic p 2.3e-69; plain V 0.350; 4 of 48 cells expected < 5; residual threshold 3.28; pooled areas: indian_ocean,,
+"R3 multinomial logit, route group of submarine sinkings ~ spline(time)",336.8,12,8.652e-65,0.1134,McFadden pseudo-R2,1153,300 of 300 month-cluster bootstrap refits used,,
+"R4 Kruskal-Wallis, loss date across areas (all causes)",634.5,11,5.818e-129,0.2712,epsilon squared,2341,,,
+"R4 Mean loss date, inner zone + home waters minus southern route",,,,3.382,months (CI: month-cluster bootstrap),1749,,-3.455,7.647
+"R4 Median loss date, inner zone + home waters minus southern route",5.103e+05,,1.954e-34,6.719,"months (CI: month-cluster bootstrap; p: Mann-Whitney U, ships independent)",1749,,-6.835,11.57
+"R5 Logistic, P(sunk by submarine) per year, Southern resource route",,,0.005519,0.4766,odds ratio per year,921,,0.2824,0.8044
+"R5 Logistic, P(sunk by submarine) per year, Inner zone: China & Korea",,,0.0002918,0.4442,odds ratio per year,444,,0.2864,0.6891
+"R5 Logistic, P(sunk by submarine) per year, Japanese coastal waters",,,2.543e-07,0.1676,odds ratio per year,384,,0.085,0.3306
+"R5 Logistic, P(sunk by submarine) per year, Outer perimeter",,,0.9333,0.9827,odds ratio per year,592,,0.6532,1.478
+"R5 Wald test, equal submarine-share slopes in all route groups",22.64,3,4.803e-05,,chi-square (cluster-robust),2341,,,

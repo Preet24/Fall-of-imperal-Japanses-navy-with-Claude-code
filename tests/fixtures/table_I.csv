@@ -1,0 +1,22 @@
+level,sinking_agent,naval_no,naval_tonnage,merchant_no,merchant_tonnage,total_no,total_tonnage
+0,United States Forces,611,1822210,2117,7913858,2728,9736068
+0,Allied Forces,45,69636,73,211664,118,281300
+1,British,28,50365,42,87981,70,138346
+1,Netherlands,7,8099,15,57471,22,65570
+1,Australian,5,6892,8,24910,13,31802
+1,Chinese,0,0,3,14327,3,14327
+1,Russian,2,1660,2,8233,4,9893
+1,New Zealand,2,2095,0,0,2,2095
+1,Netherlands and Australian,0,0,2,8303,2,8303
+1,Netherlands and Indian,0,0,1,10439,1,10439
+1,Australian and Indian,1,525,0,0,1,525
+0,United States and Allied Forces,10,14864,12,57923,22,72787
+1,United States and Australian,4,7550,7,37072,11,44622
+1,"United States, Australian, and Netherlands",0,0,2,16362,2,16362
+1,United States and British,5,5102,2,3500,7,8602
+1,United States and New Zealand,1,2212,0,0,1,2212
+1,"United States, British and Netherlands",0,0,1,989,1,989
+0,Marine Casualties,13,50338,97,268948,110,319286
+0,Japanese Mines,0,0,21,67197,21,67197
+0,Unknown Forces,7,8598,26,98519,33,107117
+0,TOTAL,686,1965646,2346,8618109,3032,10583755

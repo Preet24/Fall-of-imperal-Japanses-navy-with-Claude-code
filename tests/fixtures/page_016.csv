@@ -1,0 +1,15 @@
+date,vessel_name,vessel_type,tonnage,location,flag_of_agent,agent_type,assessment
+1942-05-02,MIZUHO,Seaplane Tender,9000,"34-26N, 138-14E",United States,Submarine,Sunk
+1942-05-04,KIKUTSUKI,Destroyer,1500,"9-07S, 160-12E",United States,Navy Carrier-Based Aircraft,Sunk
+1942-05-07,SHOHO,Light Aircraft Carrier,12000,"10-29S, 152-55E",United States,Navy Carrier-Based Aircraft,Sunk
+1942-05-11,OKINOSHIMA,Minelayer,4400,"5-06S, 153-48E",United States,Submarine,Sunk
+1942-05-17,I 28,Submarine,2212,"6-30N, 152-00E",United States,Submarine,Sunk
+1942-05-17,I 164,Submarine,1625,"29-25N, 134-09E",United States,Submarine,Sunk
+1942-05-25,ASAHI,Repair Ship,11441,"10-00N, 110-00E",United States,Submarine,Sunk
+1942-06-01,RO 35,Submarine,965,Pacific Area,Japan,Marine Casualty,Sunk
+1942-06-04,AKAGI,Aircraft Carrier,36000,"30-00N, 179-00W",United States,Navy Carrier-Based Aircraft,Sunk
+1942-06-04,KAGA,Aircraft Carrier,35000,"30-00N, 179-00W",United States,Navy Carrier-Based Aircraft,Sunk
+1942-06-04,HIRYU,Light Aircraft Carrier,17500,"31-15N, 179-05E",United States,Navy Carrier-Based Aircraft,Sunk
+1942-06-04,SORYU,Light Aircraft Carrier,17500,"30-13N, 179-17W",United States,Navy Carrier-Based Aircraft; Submarine,Sunk
+1942-06-06,MIKUMA,Heavy Cruiser,13000,"30-00N, 173-00E",United States,Navy Carrier-Based Aircraft; Marine Land-Based Aircraft,Sunk
+1942-06-25,YAMAKAZE,Destroyer,1580,"34-34N, 140-26E",United States,Submarine,Sunk

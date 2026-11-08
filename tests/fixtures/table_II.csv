@@ -1,0 +1,34 @@
+level,sinking_agent,naval_no,naval_tonnage,merchant_no,merchant_tonnage,total_no,total_tonnage
+0,Submarines,201,540192,1113,4779902,1314,5320094
+0,Surface Craft,112,277817,11,43349,123,321166
+0,Army Aircraft,70,62165,240,639667,310,701832
+0,Navy-Marine Aircraft,172,724638,447,1608959,619,2333597
+1,Carrier-Based,161,711236,359,1390241,520,2101477
+1,Land-Based,11,13402,88,218718,99,232120
+0,"Army, Navy, and Marine Aircraft in Combination",9,48750,23,114306,32,163056
+1,Army and Navy Carrier-Based Aircraft,1,5700,1,6143,2,11843
+1,Army and Navy-Marine Land-Based Aircraft,6,21250,14,49978,20,71228
+1,Navy Carrier-Based and Navy-Marine Land-Based Aircraft,2,21800,0,0,2,21800
+1,"Army, Navy Carrier-Based, and Navy-Marine Land-Based Aircraft",0,0,8,58185,8,58185
+0,Navy Shore Batteries,2,2770,0,0,2,2770
+0,Mines,19,17995,247,591660,266,609655
+1,Laid by Army Air Forces,16,13670,241,566690,257,580360
+1,Laid by Surface Craft,2,3800,0,0,2,3800
+1,Laid by Navy Land-Based Aircraft,1,525,1,6417,2,6942
+1,Laid by Submarines,0,0,5,18553,5,18553
+0,Aircraft and Other Agents,26,147883,32,132710,58,280593
+1,"Army Aircraft, Navy-Marine Land-Based Aircraft and Surface Craft",0,0,3,20607,3,20607
+1,Army Aircraft and Surface Craft,2,7900,1,8572,3,16472
+1,"Army Aircraft, Navy Carrier-Based Aircraft, Navy-Marine Land-Based Aircraft, and Surface Craft",1,31000,0,0,1,31000
+1,Army Aircraft and Army Mines,0,0,1,10000,1,10000
+1,"Army Aircraft, Army Mine, and Navy Carrier-Based Aircraft",1,17000,0,0,1,17000
+1,Army Aircraft and Submarines,0,0,2,10062,2,10062
+1,Army Aircraft and Sabotage,0,0,1,4281,1,4281
+1,Navy Carrier-Based Aircraft and Submarines,3,24780,6,27309,9,52089
+1,Navy Carrier-Based Aircraft and Surface Craft,15,61890,5,14463,20,76353
+1,Navy-Marine Land-Based Aircraft and Submarines,0,0,1,6550,1,6550
+1,Navy-Marine Land-Based Aircraft and Navy Mines,2,3800,0,0,2,3800
+1,Navy-Marine Land-Based Aircraft and Surface Craft,2,1513,0,0,2,1513
+1,Unknown Aircraft,0,0,12,30866,12,30866
+0,Unknown Agents,0,0,4,3305,4,3305
+0,TOTAL,611,1822210,2117,7913858,2728,9736068

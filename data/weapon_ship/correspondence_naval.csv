@@ -1,0 +1,14 @@
+kind,name,dim1,dim2,mass,dim_share_1,dim_share_2
+ship type,battleship,-0.2713,0.5173,0.0142,0.8533,0.1313
+ship type,carrier,0.5071,0.03812,0.02839,0.8533,0.1313
+ship type,cruiser,0.2267,0.1177,0.05521,0.8533,0.1313
+ship type,destroyer,-0.05184,-0.101,0.2129,0.8533,0.1313
+ship type,submarine,-1.105,-0.000102,0.1767,0.8533,0.1313
+ship type,escort,0.4002,-0.002247,0.2934,0.8533,0.1313
+ship type,mine_warfare,0.3361,-0.4234,0.08833,0.8533,0.1313
+ship type,landing_ship,0.2614,0.507,0.08833,0.8533,0.1313
+ship type,naval_auxiliary,0.3046,-0.002829,0.04259,0.8533,0.1313
+weapon,submarine,0.1763,-0.2347,0.3423,0.8533,0.1313
+weapon,aircraft,0.3542,0.2023,0.4211,0.8533,0.1313
+weapon,surface,-1.091,0.07133,0.194,0.8533,0.1313
+weapon,mine,0.04925,-0.4398,0.04259,0.8533,0.1313

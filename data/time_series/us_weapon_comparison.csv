@@ -1,0 +1,9 @@
+vessel,measure,weapons,test,lr_statistic,df,p_value
+naval,ships,"submarine, aircraft, surface",trend shape differs by weapon,30.27,8,0.0001894
+naval,ships,"submarine, aircraft, surface",season differs by weapon,6.352,4,0.1744
+naval,tonnage,"submarine, aircraft, surface",trend shape differs by weapon,21,8,0.007152
+naval,tonnage,"submarine, aircraft, surface",season differs by weapon,7.829,4,0.09803
+merchant,ships,"submarine, aircraft, mine",trend shape differs by weapon,94.59,8,5.416e-17
+merchant,ships,"submarine, aircraft, mine",season differs by weapon,26.37,4,2.659e-05
+merchant,tonnage,"submarine, aircraft, mine",trend shape differs by weapon,49.84,8,4.381e-08
+merchant,tonnage,"submarine, aircraft, mine",season differs by weapon,5.379,4,0.2506

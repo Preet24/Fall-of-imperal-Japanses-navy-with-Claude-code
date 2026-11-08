@@ -1,0 +1,12 @@
+test,estimate,unit,n,detail,statistic,p_value,ci_low,ci_high,df
+T1 Change points in log(1 + monthly tanker GRT),2,breaks chosen by BIC,45,"BIC k=0: -476.9, k=1: -511.2, k=2: -516.6, k=3: -512.7 | breaks at 1943-01, 1943-09",,,,,
+"T2 Sup-LR test, any change in the tanker share (beta-binomial, 1 break)",,LR (parametric bootstrap p),45,299 simulations; break at 1943-09,28.53,0.003333,,,
+T2 Breaks in the tanker share chosen by BIC,1,breaks,45,"BIC k=0: 218.1, k=1: 197.2, k=2: 197.6 | breaks at 1943-09",,,,,
+"T2 Overdispersion, beta-binomial vs binomial (same phases)",0.02721,rho (intra-month correlation),45,,26.84,1.107e-07,,,
+"T3 Cochran-Mantel-Haenszel, tanker x submarine kill given period",1.076,Mantel-Haenszel common odds ratio,2346,,0.2512,0.6162,0.8111,1.426,
+"T3 Breslow-Day, equal odds ratios in all periods",,chi-square,2346,,4.306,0.2303,,,3
+"T4 Chi-square, route group x tanker/other merchant",0.2336,bias-corrected Cramer's V (p: permutation),2341,asymptotic p 3.92e-28,130.6,0.0001,,,3
+"T5 Median regression, log(GRT) of tankers sunk on time",-60.15,% change in median GRT per year,262,,,1.599e-08,-70.79,-45.64,
+"T5 Spearman, sinking date vs tanker GRT",-0.4072,rho,262,,,6.941e-12,,,
+"T6 Logistic, P(aircraft rather than submarine) for tankers, per year",5.237,odds ratio per year (cluster-robust),229,,,0.0003825,2.1,13.06,
+"T6 Crossover date, aircraft as likely as submarines",33.95,months since 7 Dec 1941 (CI: month-cluster bootstrap),229,1944-10-05 (95% CI 1944-06-25 to 1945-02-23); 2000 bootstrap refits,,,30.62,38.59,

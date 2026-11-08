@@ -1,0 +1,72 @@
+# Allow-list: ignore everything, then un-ignore exactly what belongs on GitHub.
+# A new file (e.g. a 20 MB animation) is therefore never committed by accident;
+# add a "!" line here when something new should be published.
+
+/*
+
+# --- top-level files ---
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/analysis_findings.md
+!/project_guide.md
+!/*_explained.md
+!/*.py
+
+# --- code packages and tests ---
+!/ship_lists/
+!/summary_tables/
+!/tests/
+!/docs/
+__pycache__/
+*.pyc
+
+# --- data: final datasets and analysis results only ---
+# Not published: JANAC.pdf (29 MB scan, linked in the README instead),
+# data/raw, data/ocr_cache and data/test_run* (rebuilt by the extraction).
+!/data/
+/data/*
+!/data/naval/
+/data/naval/*_15-20.csv
+!/data/merchant/
+!/data/summary/
+!/data/basemap/
+/data/basemap/*.zip
+!/data/clusters/
+!/data/distance/
+!/data/events/
+!/data/routes/
+!/data/submarine_war/
+!/data/tankers/
+!/data/time_series/
+!/data/weapon_ship/
+
+# --- figures: only the ones the reports embed or link to ---
+# Everything else is rebuilt by its script.
+!/figures/
+/figures/**
+!/figures/**/
+!/figures/table_I/table_I_bar_tonnage.png
+!/figures/table_II/table_II_bar_tonnage.png
+!/figures/weapon_ship/weapon_by_type_naval.png
+!/figures/weapon_ship/weapon_by_type_merchant.png
+!/figures/line_graphs/losses_tonnage_agent-all_weapon-all_vessel-all.png
+!/figures/time_series/us_merchant_tonnage.png
+!/figures/time_series/us_weapon_shares.png
+!/figures/routes/weapon_handover.png
+!/figures/routes/submarine_route_shares.png
+!/figures/distance/distance_from_tokyo_agent-all_weapon-all_vessel-all_type-all_tons-all.png
+!/figures/maps/sinkings_agent-all_weapon-all_vessel-all.png
+!/figures/clusters/hotspots_hex-100km_mcs-10_agent-all_weapon-all_vessel-all.png
+!/figures/submarine_war/submarine_warfare_map_agent-all.png
+!/figures/submarine_war/submarine_hunting_grounds_by_year_agent-all.png
+!/figures/events/concentration.png
+!/figures/events/events_top20.png
+!/figures/tankers/tanker_share.png
+!/figures/tankers/tanker_where_size.png
+!/figures/animations/sinkings_agent-all_weapon-all_vessel-all_type-battleship+carrier_tons-all.gif
+# Animations: GIFs only. GitHub plays a GIF inside the page but shows an MP4
+# only as a download link, so the MP4s stay local.
+!/figures/animations/sinkings_agent-all_weapon-all_vessel-all_type-all_tons-all.gif
+!/figures/animations/sinkings_agent-us_weapon-all_vessel-all.gif
+!/figures/animations/sinkings_agent-all_weapon-mine_vessel-all.gif

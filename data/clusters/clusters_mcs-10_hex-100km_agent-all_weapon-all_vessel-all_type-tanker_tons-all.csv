@@ -1,0 +1,5 @@
+cluster,place,ships,naval_ships,merchant_ships,attack_sites,naval_tons,merchant_grt,centre_lat,centre_lon,first_sinking,last_sinking,main_agent,main_weapon,share_in_hot_spots,confirmed_by_gi_star
+1,Cam Ranh Bay,37,0,37,27,0,194322,12.27,109.17,1943-11-26,1945-07-20,us (97%),aircraft (53%),0.297,False
+2,Shimonoseki Strait,33,0,33,33,0,95090,33.92,131.08,1943-09-23,1945-07-28,us (100%),aircraft (52%),0.364,False
+3,Manila Bay,32,0,32,22,0,144772,14.58,120.92,1944-06-25,1945-01-06,us (97%),aircraft (59%),0.25,False
+4,Formosa Strait,23,0,23,12,0,92186,22.62,120.25,1944-06-27,1945-04-04,us (100%),aircraft (74%),0.652,True

@@ -1,0 +1,7 @@
+fleet,weapon_a,weapon_b,median_a,median_b,dunn_p_holm,cliffs_delta
+merchant,submarine,aircraft,3967,2722,2.496e-18,0.235
+merchant,submarine,surface,3967,3527,0.7709,-0.07249
+merchant,submarine,mine,3967,1500,3.859e-30,0.4782
+merchant,aircraft,surface,2722,3527,0.1674,-0.2661
+merchant,aircraft,mine,2722,1500,8.093e-07,0.1846
+merchant,surface,mine,3527,1500,0.008917,0.4719

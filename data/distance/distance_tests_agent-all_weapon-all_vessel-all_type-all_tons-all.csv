@@ -1,0 +1,10 @@
+test,estimate,ci_low,ci_high,p_value,unit,n,detail
+"Quantile regression, 25th percentile of distance on time",-49.88,-55.34,-44.42,2.746e-68,km per month,2994,
+"Quantile regression, 50th percentile of distance on time",-85.32,-93.29,-77.34,2.649e-91,km per month,2994,
+"Quantile regression, 75th percentile of distance on time",-80.93,-85.42,-76.44,7.338e-229,km per month,2994,
+"Spearman rank correlation, date vs distance",-0.3838,,,1.077e-105,rho,2994,
+"Mann-Kendall (TFPW) on monthly median distance, all ships",-50.98,,,4.454e-08,km per month (Sen's slope),45,
+"Mann-Kendall (TFPW) on monthly median distance, warships",-99.7,,,2.82e-07,km per month (Sen's slope),37,
+"Mann-Kendall (TFPW) on monthly median distance, merchant ships",-32.48,,,9.07e-05,km per month (Sen's slope),45,
+"Logistic regression, P(within 1,000 km of Tokyo) on time",2.323,1.141,4.73,0.02012,odds ratio per year,2994,
+Change points in monthly median distance (all ships),3,,,,breaks chosen by BIC,45,"BIC k=0: 4.7, k=1: -22.0, k=2: -24.0, k=3: -27.8 | breaks at 1942-11, 1943-05, 1945-03"

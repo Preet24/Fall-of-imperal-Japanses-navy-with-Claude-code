@@ -1,0 +1,7 @@
+cluster,place,ships,naval_ships,merchant_ships,attack_sites,naval_tons,merchant_grt,centre_lat,centre_lon,first_sinking,last_sinking,main_agent,main_weapon,share_in_hot_spots,confirmed_by_gi_star
+1,Ormoc Bay (Leyte),25,25,0,19,147548,0,10.42,125.33,1944-10-02,1945-04-10,us (100%),surface (78%),0.76,True
+2,Marshall Islands,21,16,5,14,15029,14133,8.7,167.73,1942-02-01,1945-01-13,us (100%),surface (72%),0.381,False
+3,Bougainville,15,15,0,10,28127,0,-7.95,157.2,1942-12-12,1943-10-06,us (100%),surface (100%),1.0,True
+4,Guadalcanal,14,12,2,11,86449,13670,-9.17,159.75,1942-08-28,1943-12-23,us (100%),surface (58%),1.0,True
+5,Bonin Islands,12,9,3,8,11765,7503,24.78,141.33,1944-06-15,1945-02-25,us (100%),surface (86%),0.25,False
+6,Kavieng,10,9,1,10,7858,556,0.43,149.27,1944-02-22,1944-06-10,us (100%),surface (100%),0.3,False

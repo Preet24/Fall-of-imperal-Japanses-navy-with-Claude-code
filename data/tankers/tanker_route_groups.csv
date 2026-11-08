@@ -1,0 +1,7 @@
+,observed,observed,expected,expected,adjusted_residual,adjusted_residual
+tanker,tanker,other merchant,tanker,other merchant,tanker,other merchant
+group,,,,,,
+southern,188,733,103.1,817.9,11.4,-11.4
+inner,27,417,49.69,394.3,-3.795,3.795
+home,21,363,42.98,341,-3.891,3.891
+outer,26,566,66.26,525.7,-6.071,6.071
